@@ -8,8 +8,7 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private Rigidbody rigidbody;
     [SerializeField] private float speed;
     private float moveSpeed = 1;
-    private bool inputMovementX = false;
-    private bool inputMovementY = false;
+    private bool Diagonal = true;
 
 
 
@@ -24,41 +23,57 @@ public class PlayerMove : MonoBehaviour
     private void PlayerMovement()
     {
         Vector2 inputVector = new Vector2(0, 0);
-        inputMovementX = false;
-        inputMovementY = false;
+        //Diagonal = true;
 
-        if (Input.GetKeyDown(KeyCode.W))
+
+        if (Input.GetKeyDown(KeyCode.W) && Diagonal)
         {
-            inputVector.x = +1;
-            inputMovementX = true;
+            inputVector.x = +moveSpeed;
+            Diagonal = false;
+            transform.LookAt(transform.position + new Vector3(0, 0, 1));
         }
-        if (Input.GetKeyDown(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.A) && Diagonal)
         {
-            inputVector.y = 1;
-            inputMovementY = true;
+            inputVector.y = +moveSpeed;
+            Diagonal = false;
+            transform.LookAt(transform.position + new Vector3(-1, 0, 0));
         }
-        if (Input.GetKeyDown(KeyCode.S))
+        if (Input.GetKeyDown(KeyCode.S) && Diagonal)
         {
-            inputVector.x = -1;
-            inputMovementX = true;
+            inputVector.x = -moveSpeed;     
+            Diagonal = false;
+            transform.LookAt(transform.position + new Vector3(0, 0, -1));
         }
-        if (Input.GetKeyDown(KeyCode.D))
+        if (Input.GetKeyDown(KeyCode.D) && Diagonal)
         {
-            inputVector.y = -1;
-            inputMovementY = true;
+            inputVector.y = -moveSpeed;
+            Diagonal = false;
+            transform.LookAt(transform.position + new Vector3(1, 0, 0));
         }
 
-        if (inputMovementX && inputMovementY)
+
+
+        if (Input.GetKeyUp(KeyCode.W))
         {
-            inputVector = new Vector2(0, 0);
+            Diagonal = true;
         }
-        
+        if (Input.GetKeyUp(KeyCode.A))
+        {
+            Diagonal = true;
+        }
+        if (Input.GetKeyUp(KeyCode.S))
+        {
+            Diagonal = true;
+        }
+        if (Input.GetKeyUp(KeyCode.D))
+        {
+            Diagonal = true;
+        }
+
         Vector3 moveDirection = new Vector3(inputVector.x, 0f, inputVector.y);
         transform.position += moveDirection;
-        transform.forward = moveDirection;
         
-        
-        
+       
     }
 
 }
