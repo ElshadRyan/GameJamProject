@@ -7,7 +7,7 @@ public class PlayerMove : MonoBehaviour
 {
     [SerializeField] private Rigidbody rigidbody;
     [SerializeField] private Transform playerTransform;
-    private float moveSpeed = 1;
+    private float moveSpeed = 1.6f;
 
 
     private void Update()
@@ -40,32 +40,26 @@ public class PlayerMove : MonoBehaviour
             inputVector.y = +moveSpeed;
             transform.LookAt(transform.position + new Vector3(1, 0, 0));
         }
-        
-    }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        Vector2 inputVector = new Vector2(0, 0);
-        bool collider = collision.gameObject.tag == "Collision";
         Vector3 moveDirection = new Vector3(inputVector.y, 0f, inputVector.x);
-        bool canMove = !Physics.BoxCast(playerTransform.position, transform.localScale, moveDirection, Quaternion.identity, moveSpeed);
+        bool canMove = !Physics.BoxCast(playerTransform.position, transform.localScale, moveDirection, Quaternion.identity, moveSpeed, LayerMask.GetMask("Ground"));
 
 
-        if (!canMove && collider)
+        if (!canMove)
         {
             Vector3 moveDirectionX = new Vector3(moveDirection.x, 0f, 0f);
-            canMove = moveDirection.x != 0 && !Physics.BoxCast(playerTransform.position, transform.localScale, moveDirection, Quaternion.identity, moveSpeed);
+            canMove = moveDirection.x != 0 && !Physics.BoxCast(playerTransform.position, transform.localScale, moveDirection, Quaternion.identity, moveSpeed, LayerMask.GetMask("Ground"));
 
-            if (canMove && collider)
+            if (canMove)
             {
                 moveDirection = moveDirectionX;
             }
             else
             {
                 Vector3 moveDirectionZ = new Vector3(0f, 0f, moveDirection.z);
-                canMove = moveDirection.z != 0 && !Physics.BoxCast(playerTransform.position, transform.localScale, moveDirectionZ, Quaternion.identity, moveSpeed);
+                canMove = moveDirection.z != 0 && !Physics.BoxCast(playerTransform.position, transform.localScale, moveDirection, Quaternion.identity, moveSpeed, LayerMask.GetMask("Ground"));
 
-                if (canMove && collider)
+                if (canMove)
                 {
                     moveDirection = moveDirectionZ;
                 }
@@ -74,10 +68,11 @@ public class PlayerMove : MonoBehaviour
 
 
 
-        if (canMove && collider)
+        if (canMove)
         {
             transform.position += moveDirection;
         }
+
     }
 
 }
