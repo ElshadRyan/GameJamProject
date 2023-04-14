@@ -253,6 +253,10 @@ PrefabInstance:
       value: 41.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 847358422}
@@ -325,6 +329,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 29
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -531,6 +539,10 @@ PrefabInstance:
       value: 24.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 2031417942}
@@ -732,6 +744,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 16
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -1024,6 +1040,10 @@ PrefabInstance:
       value: 49.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 636263174}
@@ -1173,6 +1193,10 @@ PrefabInstance:
       value: 40.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 953493344}
@@ -1255,6 +1279,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 19
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -1449,6 +1477,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 55.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -1978,6 +2010,10 @@ PrefabInstance:
       value: 48.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1325329254}
@@ -2116,6 +2152,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 44.5
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -2393,6 +2433,10 @@ PrefabInstance:
       value: 38.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 220612874}
@@ -2475,6 +2519,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -2628,6 +2676,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 20.5
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -2979,6 +3031,10 @@ PrefabInstance:
       value: 50.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1675945289}
@@ -3117,6 +3173,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 32.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -3264,6 +3324,155 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2002712430460007126, guid: fe86c33ce4ac10849b07adc2a5858b6d, type: 3}
   m_PrefabInstance: {fileID: 501640136}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &303449301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 303449302}
+  - component: {fileID: 303449305}
+  - component: {fileID: 303449304}
+  - component: {fileID: 303449303}
+  m_Layer: 5
+  m_Name: Score Number
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &303449302
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303449301}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 929547551}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -806, y: 451}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &303449303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303449301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d7f1fc42b7d944cbc1e5765d5bdde1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreNum: {fileID: 303449304}
+--- !u!114 &303449304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303449301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 0
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 0
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &303449305
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303449301}
+  m_CullTransparentMesh: 1
 --- !u!1 &304888654 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4180664402768072729, guid: e0cacec1886057445b9c3982da501e17, type: 3}
@@ -3701,6 +3910,10 @@ PrefabInstance:
       value: 56.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 348986855}
@@ -3850,6 +4063,10 @@ PrefabInstance:
       value: 51.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1272516650}
@@ -3932,6 +4149,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 54.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -4174,6 +4395,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 38.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -4899,6 +5124,10 @@ PrefabInstance:
       value: 59.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 479094690}
@@ -5042,6 +5271,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 55.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -5276,6 +5509,10 @@ PrefabInstance:
       value: 37.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 516644418}
@@ -5419,6 +5656,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 33.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -5802,6 +6043,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5593167486065611983, guid: cdbf6b417f4be814e8b21048ee21e5c3, type: 3}
   m_PrefabInstance: {fileID: 1644196848}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &609259283 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4180664402768072729, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+  m_PrefabInstance: {fileID: 1563444221}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &614473588 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7515905555875022557, guid: e54197f210a33264f94963bab9687a04, type: 3}
@@ -6087,6 +6333,10 @@ PrefabInstance:
       value: 30.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1899436082}
@@ -6314,6 +6564,10 @@ PrefabInstance:
       value: 53.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 672082149}
@@ -6524,6 +6778,10 @@ PrefabInstance:
       value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1767413537}
@@ -6601,6 +6859,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 23.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -6844,6 +7106,10 @@ PrefabInstance:
       value: 22.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 934461483}
@@ -6880,7 +7146,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: ba0938225b4811e47b077457568807e9, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 6ad3c082fae11694588fb7ddf2d955da, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -7201,6 +7467,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1508137148}
@@ -7355,6 +7625,10 @@ PrefabInstance:
       value: 32.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 783772967}
@@ -7460,6 +7734,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 58.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -7670,6 +7948,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 21
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -8056,6 +8338,10 @@ PrefabInstance:
       value: 52.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1258829131}
@@ -8133,6 +8419,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 36.5
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -8240,6 +8530,10 @@ PrefabInstance:
       value: 52.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 882587436}
@@ -8322,6 +8616,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 16.5
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -8548,6 +8846,10 @@ PrefabInstance:
       value: 28.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 574035381}
@@ -8557,6 +8859,44 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+--- !u!1 &929547550
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 929547551}
+  m_Layer: 5
+  m_Name: Score
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &929547551
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 929547550}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 303449302}
+  - {fileID: 1938857104}
+  m_Father: {fileID: 1030460503}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &930641240 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2160315315503555034, guid: 4ab0adbd53d37b148ac250333a664442, type: 3}
@@ -8645,6 +8985,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 57.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -9049,6 +9393,10 @@ PrefabInstance:
       value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1643896561}
@@ -9282,6 +9630,10 @@ PrefabInstance:
       value: 47.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1550833732}
@@ -9354,6 +9706,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 41
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -9544,7 +9900,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -9559,7 +9915,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 929547551}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9906,6 +10263,10 @@ PrefabInstance:
       value: 32.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 626332578}
@@ -10124,6 +10485,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 58.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -10816,6 +11181,10 @@ PrefabInstance:
       value: 46.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1268638684}
@@ -10950,6 +11319,10 @@ PrefabInstance:
       value: 48.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1503509187}
@@ -11035,103 +11408,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5593167486065611983, guid: cdbf6b417f4be814e8b21048ee21e5c3, type: 3}
   m_PrefabInstance: {fileID: 2049788896}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1188582575
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1188582576}
-  - component: {fileID: 1188582579}
-  - component: {fileID: 1188582578}
-  - component: {fileID: 1188582577}
-  m_Layer: 0
-  m_Name: Cube (28)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1188582576
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1188582575}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.6, z: 76.65}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
-  m_ConstrainProportionsScale: 1
-  m_Children: []
-  m_Father: {fileID: 1703588783}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &1188582577
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1188582575}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!23 &1188582578
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1188582575}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1188582579
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1188582575}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1196137918 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7515905555875022557, guid: e54197f210a33264f94963bab9687a04, type: 3}
@@ -11520,6 +11796,10 @@ PrefabInstance:
       value: 43.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1896366155}
@@ -11782,6 +12062,10 @@ PrefabInstance:
       value: 37
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1259487592}
@@ -11965,6 +12249,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 33
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -12170,6 +12458,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 35.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -12517,6 +12809,10 @@ PrefabInstance:
       value: 27.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1758354966}
@@ -12691,6 +12987,83 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4452311687533104371, guid: 1b934246609452841a64f159dbae0dc5, type: 3}
   m_PrefabInstance: {fileID: 1075048671}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1356089365
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2090704658}
+    m_Modifications:
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_RootOrder
+      value: 78
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.05124569
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 75.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421138, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_Name
+      value: Beat Prefab 32 (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421138, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: timingCap
+      value: 60.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: cillinderBeat
+      value: 
+      objectReference: {fileID: 1446406293}
+    - target: {fileID: 4180664402768072729, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0cacec1886057445b9c3982da501e17, type: 3}
 --- !u!1 &1356321413 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7515905555875022557, guid: e54197f210a33264f94963bab9687a04, type: 3}
@@ -12905,6 +13278,10 @@ PrefabInstance:
       value: 59.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1376036873}
@@ -12992,6 +13369,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 39
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -13473,6 +13854,16 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 24, y: 1.6000001, z: 1.6000003}
   m_Center: {x: 0, y: -0.00000011920929, z: 0.8}
+--- !u!1 &1446406293 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4180664402768072729, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+  m_PrefabInstance: {fileID: 1356089365}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1454829873 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+  m_PrefabInstance: {fileID: 1356089365}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1465967652 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4180664402768072729, guid: e0cacec1886057445b9c3982da501e17, type: 3}
@@ -13541,6 +13932,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 50.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -13681,6 +14076,10 @@ PrefabInstance:
       value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1113635261}
@@ -13804,6 +14203,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 57.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -14157,6 +14560,10 @@ PrefabInstance:
       value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 530116461}
@@ -14196,6 +14603,83 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4180664402768072729, guid: e0cacec1886057445b9c3982da501e17, type: 3}
   m_PrefabInstance: {fileID: 827240177}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1563444221
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2090704658}
+    m_Modifications:
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_RootOrder
+      value: 77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.05124569
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 75.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421138, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_Name
+      value: Beat Prefab 32 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421138, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: timingCap
+      value: 60.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: cillinderBeat
+      value: 
+      objectReference: {fileID: 609259283}
+    - target: {fileID: 4180664402768072729, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0cacec1886057445b9c3982da501e17, type: 3}
 --- !u!1001 &1567021742
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14512,6 +14996,10 @@ PrefabInstance:
       value: 25.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1858743573}
@@ -14585,6 +15073,10 @@ PrefabInstance:
       value: 18.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1508404840}
@@ -14657,6 +15149,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 28.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -14862,6 +15358,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 56.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -15409,6 +15909,10 @@ PrefabInstance:
       value: 49.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 86940598}
@@ -15482,6 +15986,10 @@ PrefabInstance:
       value: 30.5
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 15560785}
@@ -15523,8 +16031,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1188582576}
+  m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16057,6 +16564,10 @@ PrefabInstance:
       value: 24.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1930875103}
@@ -16348,6 +16859,10 @@ PrefabInstance:
       value: 54.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1780400860}
@@ -16435,6 +16950,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 31.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -16536,6 +17055,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 34.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -17584,6 +18107,10 @@ PrefabInstance:
       value: 26.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 2055303299}
@@ -17982,6 +18509,10 @@ PrefabInstance:
       value: 36.25
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1891576026}
@@ -18273,6 +18804,10 @@ PrefabInstance:
       value: 46
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 176527756}
@@ -18511,6 +19046,141 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4ab0adbd53d37b148ac250333a664442, type: 3}
+--- !u!1 &1938857103
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1938857104}
+  - component: {fileID: 1938857106}
+  - component: {fileID: 1938857105}
+  m_Layer: 5
+  m_Name: Score Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1938857104
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1938857103}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 929547551}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -936, y: 453}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1938857105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1938857103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Score
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 0
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1938857106
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1938857103}
+  m_CullTransparentMesh: 1
 --- !u!1 &1942243470 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4180664402768072729, guid: e0cacec1886057445b9c3982da501e17, type: 3}
@@ -18584,6 +19254,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 36.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -18756,6 +19430,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 45.5
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -18967,6 +19645,10 @@ PrefabInstance:
       value: 46.75
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1465967652}
@@ -19049,6 +19731,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 22.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -19194,6 +19880,10 @@ PrefabInstance:
       value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1015603903}
@@ -19269,6 +19959,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2160315315503555034, guid: 4ab0adbd53d37b148ac250333a664442, type: 3}
   m_PrefabInstance: {fileID: 2064371287}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &2065698768 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4180664402717421136, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+  m_PrefabInstance: {fileID: 1563444221}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2073594487 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5593167486065611983, guid: cdbf6b417f4be814e8b21048ee21e5c3, type: 3}
@@ -19337,6 +20032,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 53.75
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
@@ -19492,6 +20191,10 @@ PrefabInstance:
       value: 43
       objectReference: {fileID: 0}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 
       objectReference: {fileID: 1942243470}
@@ -19606,6 +20309,8 @@ Transform:
   - {fileID: 806431846}
   - {fileID: 479094689}
   - {fileID: 1376036872}
+  - {fileID: 2065698768}
+  - {fileID: 1454829873}
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -19865,6 +20570,10 @@ PrefabInstance:
       propertyPath: timingCap
       value: 51.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
+      propertyPath: scoreCount
+      value: 
+      objectReference: {fileID: 303449303}
     - target: {fileID: 4180664402717421139, guid: e0cacec1886057445b9c3982da501e17, type: 3}
       propertyPath: cillinderBeat
       value: 

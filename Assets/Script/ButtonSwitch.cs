@@ -27,6 +27,8 @@ public class ButtonSwitch : MonoBehaviour
     private bool green = false;
     private State state;
     private PlayerMove player;
+    [SerializeField]private ScoreCount scoreCount;
+    public int score = 0;
     
 
     private void Start()
@@ -92,12 +94,14 @@ public class ButtonSwitch : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter(Collider other)
+    public void OnTriggerEnter(Collider other)
     {
         if(other.gameObject.tag == "Player")
         {
             if(green)
             {
+                score += 1;
+                scoreCount.NumScore(score);
                 Destroy(gameObject);
             }
             if(!green)
