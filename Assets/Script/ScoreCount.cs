@@ -8,7 +8,7 @@ public class ScoreCount : MonoBehaviour
     [SerializeField] private TextMeshProUGUI scoreNum;
     private PlayerMove player;
     private ButtonSwitch beatSwitch;
-    private int scoreTemp;
+    public int scoreTemp;
     
     public void NumScore(int Score)
     {

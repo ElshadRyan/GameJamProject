@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ButtonSwitch : MonoBehaviour
 {
@@ -86,6 +87,9 @@ public class ButtonSwitch : MonoBehaviour
                 }
                 else if (timingAdd >= timingEnd)
                 {
+                    PlayerPrefs.SetInt("SaveScore", scoreCount.scoreTemp);
+                    int x = PlayerPrefs.GetInt("SaveScore", scoreCount.scoreTemp);
+                    SceneManager.LoadScene("GameOver");
                     Destroy(gameObject);
                 }
                 break;
@@ -107,6 +111,9 @@ public class ButtonSwitch : MonoBehaviour
             if(!green)
             {
 
+                PlayerPrefs.SetInt("SaveScore", scoreCount.scoreTemp);
+                int x = PlayerPrefs.GetInt("SaveScore", scoreCount.scoreTemp);
+                SceneManager.LoadScene("GameOver");
                 Destroy(gameObject);
             }
         }
