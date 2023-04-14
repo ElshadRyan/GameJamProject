@@ -10,6 +10,7 @@ public class ButtonSwitch : MonoBehaviour
     [SerializeField] private MeshRenderer buttonMeshRenderer;
     [SerializeField] private float timingCap;
     [SerializeField] private Transform buttonTransform;
+    [SerializeField] private GameObject cillinderBeat;
     
 
     private enum State
@@ -19,26 +20,32 @@ public class ButtonSwitch : MonoBehaviour
         Red,
     }
 
+    private float deltaCap = 1f;
     private float timingAdd;
     private float timingEnd;
+    private float timeDelta = 0f;
     private bool green = false;
     private State state;
+    private PlayerMove player;
     
 
     private void Start()
     {
         timingAdd = 0f;
-        timingEnd = 1f;
+        timingEnd = .5f;
         state = State.None;
-
+        cillinderBeat.gameObject.SetActive(false);
     }
 
     private void Update()
     {
         
         TimingSwitch();
-        
-        Debug.Log(state);
+        timeDelta = timingCap - timingAdd;
+        if(timeDelta <= deltaCap)
+        {
+            cillinderBeat.gameObject.SetActive(true);
+        }
 
     }
     private void TimingSwitch()
@@ -77,7 +84,7 @@ public class ButtonSwitch : MonoBehaviour
                 }
                 else if (timingAdd >= timingEnd)
                 {
-                    buttonTransform.transform.position = new Vector3(100, 0, 0);
+                    Destroy(gameObject);
                 }
                 break;
 
@@ -91,11 +98,12 @@ public class ButtonSwitch : MonoBehaviour
         {
             if(green)
             {
-                buttonTransform.transform.position = new Vector3(100, 0, 0);
+                Destroy(gameObject);
             }
             if(!green)
             {
-                buttonTransform.transform.position = new Vector3(100, 0, 0);
+
+                Destroy(gameObject);
             }
         }
     }

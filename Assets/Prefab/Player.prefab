@@ -47,6 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 4792261907877543246}
   playerTransform: {fileID: 4975124836036659094}
+  playerAnimator: {fileID: 0}
 --- !u!1001 &4792261908311646333
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -60,15 +61,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6e90c2aa0e6bd844ca0c0443d206a318, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.0790553
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6e90c2aa0e6bd844ca0c0443d206a318, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.476503
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6e90c2aa0e6bd844ca0c0443d206a318, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.6108894
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6e90c2aa0e6bd844ca0c0443d206a318, type: 3}
       propertyPath: m_LocalRotation.w
@@ -101,6 +102,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6e90c2aa0e6bd844ca0c0443d206a318, type: 3}
       propertyPath: m_Name
       value: Chicken
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6e90c2aa0e6bd844ca0c0443d206a318, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6e90c2aa0e6bd844ca0c0443d206a318, type: 3}

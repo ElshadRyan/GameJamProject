@@ -18,7 +18,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4180664402717421136
 Transform:
   m_ObjectHideFlags: 0
@@ -51,7 +51,7 @@ MonoBehaviour:
   blueMaterial: {fileID: 2100000, guid: 8fded07b4d2f9084db78c3def21f3252, type: 2}
   greenMaterial: {fileID: 2100000, guid: e35f0e5f4f743244fb56881c74dbf817, type: 2}
   buttonMeshRenderer: {fileID: 4180664402768072734}
-  timingCap: 0.65
+  timingCap: 4
   buttonTransform: {fileID: 4180664402768072733}
 --- !u!65 &4180664402717421137
 BoxCollider:
