@@ -23,7 +23,7 @@ public class PlayButton : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         delayAdd += Time.deltaTime;
-        if(delayAdd >= delay)
+        if(other.CompareTag("Player"))
         {
             SceneManager.LoadScene("Victory");
         }
