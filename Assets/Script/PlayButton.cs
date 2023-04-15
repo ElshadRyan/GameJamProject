@@ -5,7 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class PlayButton : MonoBehaviour
 {
-    public void ChangeScene()
+    private float delay = 4f;
+    private float delayAdd = 0f;
+    
+
+    
+    public void LevelScene()
     {
         SceneManager.LoadScene("Level");
     }
@@ -13,5 +18,14 @@ public class PlayButton : MonoBehaviour
     public void MainMenuScene()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        delayAdd += Time.deltaTime;
+        if(delayAdd >= delay)
+        {
+            SceneManager.LoadScene("Victory");
+        }
     }
 }
